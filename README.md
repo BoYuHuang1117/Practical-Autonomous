@@ -1,23 +1,22 @@
-# Practical Autonomous
+# Practical Autonomous projects in Python
 
-### All the code is programmed in Python
+***********************************************
 
-* Lane detection
+# Lane detection
 
-<img width="910" alt="Capture" src="https://user-images.githubusercontent.com/38172621/98052459-ed4a5300-1dfb-11eb-9c94-881afd7603e9.PNG">
+<img width="910" alt="Capture" src="https://user-images.githubusercontent.com/38172621/98053616-8aa68680-1dfe-11eb-8c33-b73d98dd8947.PNG">
 
+# traffic sign recognition
 
-* traffic sign recognition
+I. load the complete dataset with labels
 
-- load the complete dataset with labels
+II. transform the size of the image into 32x32
 
-- transform the size of the image into 32x32
+III. build the Convolutional Neural Netwrok
 
-- build the Convolutional Neural Netwrok
+IV. train the model
 
-- train the model
-
-- testing with the image found on the websites
+V. testing with the image found on the websites
 
 ## Sample image
 ### Image in size of 32x32 (RGB)
